@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,a as s}from"./index-DVd9e_4e.js";const c={},n=s("h1",null,"This is an About page",-1),a=[n];function _(r,i){return t(),o("main",null,a)}const u=e(c,[["render",_]]);export{u as default};
